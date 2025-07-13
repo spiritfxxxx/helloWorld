@@ -2,7 +2,7 @@
 DBOS Hello World function (TypeScript)
 
 ## Add neccesary things to local files
-* git clone https://github.com/spiritfx69/helloWorld
+* git clone https://github.com/spiritfxxxx/typescript-helloWorld.git
 * cd helloWorld
 * npm init -y
 * npm install --save-dev typescript
